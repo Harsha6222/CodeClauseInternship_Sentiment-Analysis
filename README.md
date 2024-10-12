@@ -1,6 +1,8 @@
 # Sentiment Analysis using TextBlob
 Overview :
-This project is a simple Sentiment Analysis tool using Python's TextBlob library. It analyzes the sentiment of any given text and classifies it as Positive, Negative, or Neutral. Additionally, it provides a confidence score that reflects the intensity of the sentiment.
+This project is a simple Sentiment Analysis tool using Python's TextBlob library. 
+It analyzes the sentiment of any given text and classifies it as Positive, Negative, or Neutral. 
+Additionally, it provides a confidence score that reflects the intensity of the sentiment.
 
 Features :
 Classifies the sentiment as Positive, Negative, or Neutral.
